@@ -19,7 +19,7 @@ export class FormlyFieldButton extends FieldType {
     @Input() identifier: string; 
 
 
-    constructor(private communicationService: CommunicationService,private viewContainerRef: ViewContainerRef) {
+    constructor(private communicationService: CommunicationService) {
         super(); 
    
       }
