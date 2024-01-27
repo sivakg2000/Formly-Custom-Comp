@@ -1,0 +1,26 @@
+[
+ 
+
+
+  {
+    "type": "button",
+    "key": "searchBtn",
+    "props": {
+      "label": "Search",
+      "text": "Search",
+      "btnType": "info", 
+      "description": "Method1...."
+    },
+    "identifier": "MytestComponent"
+  }
+
+ 
+
+
+
+
+
+
+
+
+]

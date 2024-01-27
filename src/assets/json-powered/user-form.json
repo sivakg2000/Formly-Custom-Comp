@@ -1,0 +1,33 @@
+[
+ 
+
+
+  {
+    "type": "button",
+    "key": "searchBtn",
+    "props": {
+      "label": "Search",
+      "text": "Search",
+      "btnType": "info", 
+      "description": "Method1...."
+    },
+    "identifier": "AppComponent"
+    
+  },
+
+  {
+    "key": "someInput",
+    "type": "input",
+    "templateOptions": {
+      "label": "Some Input"
+    }
+  }
+
+
+
+
+
+
+
+
+]
